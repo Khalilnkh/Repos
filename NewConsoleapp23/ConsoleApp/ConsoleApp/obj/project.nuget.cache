@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pqejBEsOKfOM9Wa5PaVa9wBQmYrOZtS+9zz1rWtx5C55gSft/uZbDqoRX3Mr7odUA9FToiyRMkUYYBNnnG9fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\81704\\source\\repos\\NewConsoleapp23\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81704\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

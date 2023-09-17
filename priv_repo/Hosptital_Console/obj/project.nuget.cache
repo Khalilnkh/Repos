@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YN8EFE/4Q0ui+XhmlkrdgOhtGGAT3A68zaEWmGKXaS9hUgB3FlzW2FSr6hVw9r/xZkXaq3AMAQGVPfxJ8LrO+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\81704\\source\\repos\\priv_repo\\Hosptital_Console\\Hosptital_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81704\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

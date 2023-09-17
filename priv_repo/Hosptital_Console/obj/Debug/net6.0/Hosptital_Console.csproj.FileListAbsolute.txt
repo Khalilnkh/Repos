@@ -1,0 +1,17 @@
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\bin\Debug\net6.0\Hosptital_Console.exe
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\bin\Debug\net6.0\Hosptital_Console.deps.json
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\bin\Debug\net6.0\Hosptital_Console.runtimeconfig.json
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\bin\Debug\net6.0\Hosptital_Console.dll
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\bin\Debug\net6.0\Hosptital_Console.pdb
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.csproj.AssemblyReference.cache
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.AssemblyInfoInputs.cache
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.AssemblyInfo.cs
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.csproj.CoreCompileInputs.cache
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.csproj.CopyComplete
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.dll
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\refint\Hosptital_Console.dll
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.pdb
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\Hosptital_Console.genruntimeconfig.cache
+C:\Users\81704\source\repos\priv_repo\Hosptital_Console\obj\Debug\net6.0\ref\Hosptital_Console.dll
